@@ -1,0 +1,14 @@
+# Target labels
+ sdl3-populate
+# Source files and their labels
+/Users/lansmachine/Documents/Github/Munchies/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate
+/Users/lansmachine/Documents/Github/Munchies/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate.rule
+/Users/lansmachine/Documents/Github/Munchies/build/_deps/sdl3-subbuild/CMakeFiles/sdl3-populate-complete.rule
+/Users/lansmachine/Documents/Github/Munchies/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-build.rule
+/Users/lansmachine/Documents/Github/Munchies/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-configure.rule
+/Users/lansmachine/Documents/Github/Munchies/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-download.rule
+/Users/lansmachine/Documents/Github/Munchies/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-install.rule
+/Users/lansmachine/Documents/Github/Munchies/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-mkdir.rule
+/Users/lansmachine/Documents/Github/Munchies/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-patch.rule
+/Users/lansmachine/Documents/Github/Munchies/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-test.rule
+/Users/lansmachine/Documents/Github/Munchies/build/_deps/sdl3-subbuild/sdl3-populate-prefix/src/sdl3-populate-stamp/sdl3-populate-update.rule
